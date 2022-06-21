@@ -144,6 +144,9 @@ function commander(cmd) {
             addLine("Opening my Github Webpage.", "color2", 80);
             newTab(github);
             break;
+        case "auth:
+            addLine("The origin of this Portfolio is https://www.hyperskys.dev/ any other website is a STOLEN copy.", "color2", 80)
+            break;
         case "onlyfans":
             addLine("You actually thought I had an onlyfans, weird.", "error", 80);
             setTimeout(function() {
