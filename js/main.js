@@ -101,10 +101,9 @@ function commander(cmd) {
             }, 1000);
             break;
         case "topple":
-            addLine("Hey, iusemeteor how are you?")
-            setTimeout(function() {
-                window.open('https://www.pornhub.com/view_video.php?viewkey=ph62251209de802');
-            }, 1000);
+            addLine("You should have listened to the warning, it's all on you now!", "error", 100)
+            addLine("Next time you should listen to the warning... 🤭", "error", 100)
+            newTab("https://www.pornhub.com/view_video.php?viewkey=ph62251209de802")
             break;
         case "social":
             loopLines(social, "color2 margin", 80);
