@@ -103,7 +103,7 @@ function commander(cmd) {
         case "topple":
             addLine("You should have listened to the warning, it's all on you now!", "error", 100)
             addLine("Next time you should listen to the warning... 🤭", "error", 100)
-            newTab("https://www.pornhub.com/view_video.php?viewkey=ph62251209de802")
+            window.open("https://www.pornhub.com/view_video.php?viewkey=ph62251209de802")
             break;
         case "social":
             loopLines(social, "color2 margin", 80);
