@@ -2,7 +2,7 @@ const youtube = "https://www.youtube.com/channel/UCUW7jV8cMWfAIG9WGovxE5g";
 const twitter = "https://www.twitter.com/HyperSkysMC";
 const onlyfans = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
 const github = "https://github.com/HyperSkys/";
-const password = "You have to call me on Discord first.";
+const password = "⠀password1234⠀";
 
 about = [
     "<br>",
